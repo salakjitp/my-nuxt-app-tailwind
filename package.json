@@ -1,0 +1,26 @@
+{
+  "name": "my-nuxt-app-tailwind",
+  "private": true,
+  "author": "Salakjit P",
+  "keywords": [
+    "nuxt",
+    "nuxtjs",
+    "tailwindcss"
+  ],
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.6.6",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/node": "^18",
+    "node-sass": "^8.0.0",
+    "nuxt": "^3.4.1",
+    "sass-loader": "^13.2.2"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+    // "workbench.colorCustomizations": {
+    //     "titleBar.activeBackground": "#04034b",
+    //     "titleBar.activeForeground": "#ffffff",
+    //     "activityBar.activeBackground": "#04034b"
+    // },
+    "editor.formatOnSave": true,
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[json]": {
+    //     "editor.defaultFormatter": "vscode.json-language-features"
+    // },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
